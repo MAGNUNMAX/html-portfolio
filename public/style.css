@@ -1,0 +1,43 @@
+html{
+    font-size: 20px;
+}
+#titulo{
+    font-family: fantasy;
+    font-size: 2rem;
+    font-weight: 800;
+    color: #c981bf;
+    text-align: center;
+}
+
+
+
+div{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+h2{
+    color: #6B6421;
+    text-align: center;
+    font-weight: bolder;
+    font-family:sans-serif;
+}
+
+h3{
+    color:#AF616D;
+    font-family:cursive;
+    font-weight: lighter;
+}
+
+#direction{
+    text-align: center;
+    font-weight:lighter;
+    font-family: cursive;
+}
+
+.food{
+    color:cadetblue;
+    font-family: cursive;
+}
